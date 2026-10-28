@@ -1,6 +1,6 @@
-**Materia:** Ciencia de Datos 2 · **Autor:** Santiago (Economía, UNAULA)
+**Materia:** Ciencia de Datos 2 · **Autor:** Santiago Londoño Pérez (Economía, UNAULA)
 
-## Objetivo
+## Objetivo 
 Diseñar y ejecutar un experimento de **clasificación** que compare cuatro modelos clásicos con hiperparámetros por defecto (Regresión Logística, KNN, Árbol de Decisión y SVM-RBF), usando **validación cruzada** como herramienta principal de evaluación y desarrollando una mirada crítica sobre cómo seleccionar modelos.
 
 ## Dataset
